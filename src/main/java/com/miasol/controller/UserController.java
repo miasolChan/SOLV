@@ -131,6 +131,7 @@ public class UserController {
                 System.out.println("删除成功");
             }
         }
+        //随机
         String suffix = file.getOriginalFilename().substring(file.getOriginalFilename().lastIndexOf("."));
         String fileName = user.getUsername()+ "-" + System.currentTimeMillis()+suffix;
         String src = request.getServletContext().getRealPath("file/user/avatar/" + fileName);

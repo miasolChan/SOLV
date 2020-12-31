@@ -16,6 +16,9 @@ import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.util.List;
 
+/**
+ * @author miasol
+ */
 @Controller
 @RequestMapping("video")
 public class VideoController {
@@ -95,7 +98,8 @@ public class VideoController {
         String newName;
         //解决文件名乱码
         String userAgent = request.getHeader("User-Agent");
-        if(userAgent.contains("MSIE") || userAgent.contains("Trident") || userAgent.contains("Edge")){//IE
+        if(userAgent.contains("MSIE") || userAgent.contains("Trident") || userAgent.contains("Edge"))
+        {//IE
             newName = java.net.URLEncoder.encode(fileName, "UTF-8");
         }else{//非IE
             newName = new String(fileName.getBytes(StandardCharsets.UTF_8),StandardCharsets.ISO_8859_1);

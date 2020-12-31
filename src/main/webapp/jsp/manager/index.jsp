@@ -74,12 +74,12 @@
 
     <div class="layui-body">
         <!-- 内容主体区域 -->
-        <div style="padding: 15px;"><h1 style="margin: 20px 0 0 10px;">欢迎老大来到后台管理系统！！！</h1></div>
+        <div style="padding: 15px;"><h1 style="margin: 20px 0 0 10px;">欢迎管理员来到后台管理系统！！！</h1></div>
     </div>
 
     <div class="layui-footer">
         <!-- 底部固定区域 -->
-        © layui.com - 底部固定区域
+        © miasol.top - 管理系统
     </div>
 </div>
 <script>

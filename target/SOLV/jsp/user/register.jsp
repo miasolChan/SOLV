@@ -163,7 +163,7 @@
         if(elem.val() == "" || elem.val()==null){
             error.css("color","red").html("请输入验证码！");
             return false;
-        }else if (elem.val() == "9527"){
+        }else if (elem.val() == "1101"){
             error.css("color","green").html("✔");
             return true;
         }else {

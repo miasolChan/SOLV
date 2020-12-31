@@ -2,7 +2,7 @@
 <div class="footerDiv">
     <div>
         <p>
-            版权所有 &copy; miasol.com
+            版权所有 &copy; miasol.top
         </p>
     </div>
 </div>

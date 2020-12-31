@@ -7,7 +7,7 @@ import java.util.Date;
 public class Test1 {
     @Test
     public void test01(){
-        System.out.println(new Date().getYear());
+        System.out.println();
     }
 
 }

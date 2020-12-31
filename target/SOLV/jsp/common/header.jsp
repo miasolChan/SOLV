@@ -55,7 +55,7 @@
     //头像和用户名显示,给选项绑定点击事件
     if(${sessionScope.user != null}){
         if (${sessionScope.user.img != ''}){
-            $(".fly-nav-avatar img").attr("src",'/${sessionScope.user.img}');
+            $(".fly-nav-avatar img").attr("src",'${sessionScope.user.img}');
         }
         $(".fly-nav-avatar cite").html('${sessionScope.user.username}');
         //给选项绑定点击事件
@@ -172,7 +172,7 @@ var layer = layui.layer;
                 "<input type=\"text\" placeholder=\"用户名/手机号\" class=\"input-text\">" +
                 "</div>" +
                 "<div class=\"input-line\">" +
-                "<i style='background-image: url(\"/video/static/images/密码.png\");'></i>" +
+                // "<i style='background-image: url(\"/video/static/images/密码.png\");'></i>" +
                 "<input type=\"password\" placeholder=\"密码\" class=\"input-text\">" +
                 "</div>" +
                 "<div class=\"input-code-div\">" +
