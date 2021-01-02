@@ -1,7 +1,7 @@
 # SOLV
 
 ## 主题
-自建视频
+自建视频网站 http://www.miasol.top/SOLV
 ## 性质
 数据库期末大作业
 ## 技术栈
