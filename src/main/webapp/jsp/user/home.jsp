@@ -164,7 +164,7 @@
         $(".layui-show input:eq(1)").attr("value",'未登录');
     }
     if(${sessionScope.user.img!=null}){
-        $(".homeAvatar").attr('src',"/${sessionScope.user.img}");
+        $(".homeAvatar").attr('src',"${sessionScope.user.img}");
     }else{
         $(".homeAvatar").attr('src',"static/images/用户.png");
     }

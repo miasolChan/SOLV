@@ -29,6 +29,7 @@ import java.util.UUID;
 @RequestMapping("user")
 public class UserController {
 
+//    public static String domain = "http://miasol.top/";
     @Resource
     private UserService userServiceImpl;
 

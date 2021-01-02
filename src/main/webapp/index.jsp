@@ -25,27 +25,22 @@
         <div carousel-item>
             <div>
                 <a href="javascript:">
-                    <img src="file/video/images/轮播图/功夫.jpg" width="100%" height="400px" alt="功夫">
+                    <img src="file/video/images/轮播图/霍比特人3.jpg" width="100%" height="400px" alt="霍比特人3">
                 </a>
             </div>
             <div>
                 <a href="javascript:">
-                    <img src="file/video/images/轮播图/狄仁杰2四大天王.jpg" alt="狄仁杰2四大天王" width="100%" height="400px">
+                    <img src="file/video/images/轮播图/蜘蛛侠英雄归来.jpg" alt="蜘蛛侠英雄归来" width="100%" height="400px">
                 </a>
             </div>
             <div>
                 <a href="javascript:">
-                    <img src="file/video/images/轮播图/过春天.jpg" alt="过春天" width="100%" height="400px">
+                    <img src="file/video/images/轮播图/驯龙高手.jpg" alt="驯龙高手.jpg" width="100%" height="400px">
                 </a>
             </div>
             <div>
                 <a href="javascript:">
-                    <img src="file/video/images/轮播图/慎重勇者.jpg" alt="慎重勇者" width="100%" height="400px">
-                </a>
-            </div>
-            <div>
-                <a href="javascript:">
-                    <img src="file/video/images/轮播图/超人高中生们.jpg" alt="超人高中生们" width="100%" height="400px">
+                    <img src="file/video/images/轮播图/良医.jpg" alt="良医" width="100%" height="400px">
                 </a>
             </div>
         </div>

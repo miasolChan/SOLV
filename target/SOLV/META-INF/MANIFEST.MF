@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
 Created-By: IntelliJ IDEA
-Built-By: miasol
-Build-Jdk: 11.0.2
+Built-By: Miasol
+Build-Jdk: 1.8.0_271
 
