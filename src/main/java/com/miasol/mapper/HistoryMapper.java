@@ -21,6 +21,6 @@ public interface HistoryMapper {
     @Select("select * from history where uid = #{param1} and name = #{param2}")
     History getByVideoName(int uid, String videoName);
 
-    @Select("select * from history where uid = #{param1} group by time DESC")
+    @Select("select * from history where uid = #{param1} order by time DESC")
     List<History> getByUid(int uid);
 }

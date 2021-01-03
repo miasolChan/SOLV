@@ -16,7 +16,7 @@
     <div class="playScreen"></div>
     <i class="iconfont centerPlayBtn">&#xe737;</i>
     <video preload="auto" >
-        <source src="file/video/videos/分手大师 BD1280高清国语中英双字.mkv" type="video/mp4">
+        <source src="" type="video/mp4">
     </video>
     <div style="" class="controls">
         <i class="iconfont controlsBtn playBtn icon-play"></i>

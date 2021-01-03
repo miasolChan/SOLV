@@ -172,7 +172,7 @@ var layer = layui.layer;
                 "<input type=\"text\" placeholder=\"用户名/手机号\" class=\"input-text\">" +
                 "</div>" +
                 "<div class=\"input-line\">" +
-                // "<i style='background-image: url(\"/video/static/images/密码.png\");'></i>" +
+                "<i></i>" +
                 "<input type=\"password\" placeholder=\"密码\" class=\"input-text\">" +
                 "</div>" +
                 "<div class=\"input-code-div\">" +
