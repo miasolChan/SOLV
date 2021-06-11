@@ -1,7 +1,7 @@
 # SOLV
 
 ## 主题
-自建视频网站 http://www.miasol.top/SOLV
+自建视频网站 http://www.miasol.top/SOLV //部署已删除
 ## 性质
 期末大作业
 ## 技术栈
